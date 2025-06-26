@@ -71,10 +71,4 @@ Go to: http://127.0.0.1:8000/docs to test interactively.
 
 📬 Contact
 Author: Sreeni Gajula LinkedIn: linkedin.com/in/srinivas-gajula
-
-✅ Pro Tip
-Yes, absolutely put this project on GitHub!
-* It proves hands-on GenAI skill
-* Shows API + ML + LLM integration
-* Makes you stand out to recruiters
-Let me know if you want help pushing to GitHub or writing a pinned post!
+---------------------------------------------------------------------------------------------------------------------------
